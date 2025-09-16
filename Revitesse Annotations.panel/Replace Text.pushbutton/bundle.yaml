@@ -1,0 +1,9 @@
+title:
+  en_us:  |-
+    Replace
+    Text
+tooltip: 
+
+  en_us: >-
+    Replaces text inside text notes in the active view or in the entire project. 
+author: Ramy Maher (December 2023)

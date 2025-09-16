@@ -1,0 +1,9 @@
+title:
+  en_us:  |-
+    Batch
+    Parameters
+tooltip: 
+
+  en_us: >-
+    Create up to 10 shared parameters and bind them to selected categories at once. 
+author: Ramy Maher (December 2022)

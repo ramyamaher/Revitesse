@@ -1,0 +1,10 @@
+title:
+  en_us:  |-
+    Cloud
+    Numbering
+tooltip: 
+
+  en_us: >-
+    Numbers revision clouds according to their containing sheet or view parameters in the Mark parameter.
+    Select the parameters in the order and length needed to number the revision clouds.
+author: Ramy Maher (December 2023)

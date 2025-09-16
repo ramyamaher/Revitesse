@@ -1,0 +1,9 @@
+title:
+  en_us:  |-
+    Filter Tags
+    by Parameter
+tooltip: 
+
+  en_us: >-
+    Selects tags of filtered elements by a specific parameter value. Works in active view or entire model.
+author: Ramy Maher (December 2022)

@@ -1,0 +1,10 @@
+title:
+  en_us:  |-
+    Cloud
+    Override
+tooltip: 
+
+  en_us: >-
+    Goes through the clouds and overwrites the view properties of the clouds according to categories based on the text in the comments parameter.
+    Override revision clouds whose Comments parameter contains a specific text. Select between overriding clouds in the entire model, all views, all sheets or just the current view.
+author: Ramy Maher (December 2023)

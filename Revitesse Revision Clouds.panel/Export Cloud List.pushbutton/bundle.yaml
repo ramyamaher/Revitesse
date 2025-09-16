@@ -1,0 +1,10 @@
+title:
+  en_us:  |-
+    Export
+    Cloud Lsit
+tooltip: 
+
+  en_us: >-
+    Gets information of revision clouds as well as their containing views and sheets.
+    Select between information of revision clouds in the current view, all views, all sheets or in the whole model.
+author: Ramy Maher (December 2023)

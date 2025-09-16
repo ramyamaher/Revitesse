@@ -1,0 +1,10 @@
+title:
+  en_us:  |-
+    Cloud Numbering
+    Reset
+tooltip: 
+
+  en_us: >-
+    Reset cloud numbers in the Mark parameter.
+    Select between resetting cloud numbers in the active view, all views, all sheets or the whole model.
+author: Ramy Maher (December 2023)

@@ -1,0 +1,8 @@
+title:
+  en_us:  |-
+    Reset Marks
+tooltip: 
+
+  en_us: >-
+    Resets element marks in the active view or the entire model, and gives an option for backup. 
+author: Ramy Maher (December 2023)

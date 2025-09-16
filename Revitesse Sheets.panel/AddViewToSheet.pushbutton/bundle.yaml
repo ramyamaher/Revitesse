@@ -1,0 +1,9 @@
+title:
+  en_us:  |-
+    Add View
+    to Sheet
+tooltip: 
+
+  en_us: >-
+    Duplicates a sheet with all its parameter and title block up to 10 times at once and adds selected views to the middle of these newly-created sheets. 
+author: Ramy Maher (December 2023)

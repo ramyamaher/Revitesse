@@ -1,0 +1,9 @@
+title:
+  en_us:  |-
+    Number
+    Windows
+tooltip: 
+
+  en_us: >-
+    This script numbers windows and gives options for "door to" room, "door from" room, prefixes, suffixes, and separators if there are multiple windows in a room. 
+author: Ramy Maher (December 2023)

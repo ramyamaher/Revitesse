@@ -1,0 +1,10 @@
+title:
+  en_us:  |-
+    Select All
+    Category
+    Instances
+tooltip: 
+
+  en_us: >-
+    Selects all instances of the same category either only in the active view or in the entire project. 
+author: Ramy Maher (December 2022)

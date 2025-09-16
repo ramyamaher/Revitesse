@@ -1,0 +1,11 @@
+title:
+  en_us:  |-
+    Cloud
+    Selector
+tooltip: 
+
+  en_us: >-
+    Gets revision cloud IDs containing a specific text in their Comments parameter.
+    Type in a specific text. This button will get the revision clouds containing this text and their information.
+    Select between the IDs of the revision clouds containing this text in the current view, all views, all sheets or everywhere.
+author: Ramy Maher (December 2023)

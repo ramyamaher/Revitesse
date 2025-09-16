@@ -1,0 +1,10 @@
+title:
+  en_us:  |-
+    Cloud Override
+    Reset
+tooltip: 
+
+  en_us: >-
+    Resets all overrides for revision clouds in all views and sheets.
+    Resets revision cloud overrides back to the default settings. 
+author: Ramy Maher (December 2023)

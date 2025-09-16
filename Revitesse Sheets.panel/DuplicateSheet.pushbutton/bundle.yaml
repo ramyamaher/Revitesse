@@ -1,0 +1,9 @@
+title:
+  en_us:  |-
+    Duplicate
+    Sheet
+tooltip: 
+
+  en_us: >-
+    Duplicates a sheet with all its parameter and title block up to 10 times at once. 
+author: Ramy Maher (December 2023)

@@ -1,0 +1,9 @@
+title:
+  en_us:  |-
+    Select
+    Text
+tooltip: 
+
+  en_us: >-
+    Selects text notes that have or contain a specific value in the active view or in the entire project. 
+author: Ramy Maher (December 2023)
