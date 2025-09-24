@@ -1,0 +1,9 @@
+title:
+  en_us:  |-
+    Host
+    Info
+tooltip: 
+
+  en_us: >-
+    Copies the host ID to the element's "Revitesse Host ID" parameter, and a parameter value of the host of the user's choice to "Revitesse Host Info". Works on the selected element, all elements of its category in the same view, or all elements of the same category in the entire project.
+author: Ramy Maher (December 2022)
