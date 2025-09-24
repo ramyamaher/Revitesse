@@ -1,7 +1,7 @@
 {
   "name": "Revitesse",
   "author": "Ramy Maher",
-  "description": "A set of useful pyRevit tools.",
+  "description": "A set of useful tools for eliminating redundancy.",
   "url": "https://github.com/ramyamaher/Revitesse.git",
   "website": "http://www.revitesse.com/",
   "tags": ["revit", "productivity", "custom-tools", "Revitesse"],
@@ -13,4 +13,5 @@
     }
   ]
 }
+
 
