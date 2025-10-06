@@ -1,0 +1,9 @@
+title:
+  en_us:  |-
+    Color
+    Scheme
+tooltip: 
+
+  en_us: >-
+    Creates a color scheme for hte selected element category using filters, with the possibility of creating a legend. 
+author: Ramy Maher (September 2025)
